@@ -1,13 +1,8 @@
 #########################################################################
-# File Name: test.sh
+# File Name: test2.sh
 # Author: 顾可爱爱王宝宝
 # mail: 顾可爱爱王宝宝@163.com
-# Created Time: 2018年01月29日 星期一 19时51分11秒
+# Created Time: 2018年01月30日 星期二 13时41分43秒
 #########################################################################
 #!/bin/bash
-aaa
-bbb
-ccc
-ddd
-GPL
-111
+This is a test2.sh to test how stage works!
